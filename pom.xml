@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>spring-boot-exception-handle</module>
+        <module>spring-boot-validation-guide</module>
     </modules>
 
     <properties>
