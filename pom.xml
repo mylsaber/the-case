@@ -11,6 +11,7 @@
     <modules>
         <module>spring-boot-exception-handle</module>
         <module>spring-boot-validation-guide</module>
+        <module>spring-boot-document-api</module>
     </modules>
 
     <properties>
