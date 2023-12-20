@@ -13,6 +13,7 @@
         <module>spring-boot-validation-guide</module>
         <module>spring-boot-document-api</module>
         <module>spring-boot-redis-lettuce</module>
+        <module>java-io</module>
     </modules>
 
     <properties>
